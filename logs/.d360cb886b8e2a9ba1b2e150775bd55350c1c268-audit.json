@@ -1,0 +1,19 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\DOTUN\\Documents\\SImple API Challenge\\logs\\.d360cb886b8e2a9ba1b2e150775bd55350c1c268-audit.json",
+    "files": [
+        {
+            "date": 1610485902583,
+            "name": "C:\\Users\\DOTUN\\Documents\\SImple API Challenge\\logs\\application-2021-01-12.log",
+            "hash": "bb895aaab88abc06b26d6e28937e7197"
+        },
+        {
+            "date": 1610503899029,
+            "name": "C:\\Users\\DOTUN\\Documents\\SImple API Challenge\\logs\\application-2021-01-13.log",
+            "hash": "d8faaf67a1ad6096f309e5659de7762f"
+        }
+    ]
+}
